@@ -71,7 +71,7 @@ body {
 <body>
 
 <div class="topnav" id="myTopnav">
-	<img src="image/butterfly.jpg" alt="My Logo" width="300px" height="110px">
+	<img src="https://res.cloudinary.com/moon-dock-group/image/upload/v1524492236/orange-and-white-background-wallpaper-11.jpg " alt="My Logo" width="300px" height="110px">
   <a href="#gellery">GALLERY</a>
   <a href="#blog">BLOG</a>
   <a href="#sign_up">SIGN UP</a>
